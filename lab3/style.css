@@ -1,0 +1,8 @@
+#status {
+  margin-top: 10px;
+}
+
+#actionBtn {
+  padding: 10px 20px;
+  margin: 10px 0;
+}
